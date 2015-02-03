@@ -1,0 +1,4 @@
+# virtualenv envName
+# source envName/bin/activate
+# pip install Flask
+# test with python --> import flask
